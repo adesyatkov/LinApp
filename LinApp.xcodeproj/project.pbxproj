@@ -1,0 +1,822 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		24150AA75357B74BC65443BF /* Pods_LinAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BF024DA6181EF6F07E0F9FB /* Pods_LinAppTests.framework */; };
+		3A9266BE207C0B3600F72508 /* ImagePick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9266BD207C0B3600F72508 /* ImagePick.swift */; };
+		3AD3825C20519C0800741CC0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD3825B20519C0800741CC0 /* AppDelegate.swift */; };
+		3AD3825E20519C0800741CC0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD3825D20519C0800741CC0 /* ViewController.swift */; };
+		3AD3826120519C0800741CC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AD3825F20519C0800741CC0 /* Main.storyboard */; };
+		3AD3826320519C0800741CC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AD3826220519C0800741CC0 /* Assets.xcassets */; };
+		3AD3826620519C0800741CC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AD3826420519C0800741CC0 /* LaunchScreen.storyboard */; };
+		3AD3827120519C0800741CC0 /* LinAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD3827020519C0800741CC0 /* LinAppTests.swift */; };
+		3AD3827C20519C0800741CC0 /* LinAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD3827B20519C0800741CC0 /* LinAppUITests.swift */; };
+		3AD3828A2051AD4600741CC0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3AD382892051AD4600741CC0 /* GoogleService-Info.plist */; };
+		3AE271A22067B28C00EB136A /* MerklisteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE271A12067B28C00EB136A /* MerklisteTableViewCell.swift */; };
+		3AE271A62067B38B00EB136A /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE271A52067B38B00EB136A /* TableViewController.swift */; };
+		3AE271AA2067BDBF00EB136A /* Aktien.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AE271A92067BDBF00EB136A /* Aktien.swift */; };
+		53FCEEC4E2A34D7C06C1185B /* Pods_LinApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A52BCC543003BD60D53DE8B1 /* Pods_LinApp.framework */; };
+		820FC285495F7CD2FD824217 /* Pods_LinAppUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D282C8A508242C88FCA05D0 /* Pods_LinAppUITests.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3AD3826D20519C0800741CC0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3AD3825020519C0700741CC0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3AD3825720519C0700741CC0;
+			remoteInfo = LinApp;
+		};
+		3AD3827820519C0800741CC0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3AD3825020519C0700741CC0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3AD3825720519C0700741CC0;
+			remoteInfo = LinApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0D282C8A508242C88FCA05D0 /* Pods_LinAppUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LinAppUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A9266BD207C0B3600F72508 /* ImagePick.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePick.swift; sourceTree = "<group>"; };
+		3AA36200207E79A3000143D6 /* LinApp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LinApp.entitlements; sourceTree = "<group>"; };
+		3AD3825820519C0800741CC0 /* LinApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LinApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AD3825B20519C0800741CC0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3AD3825D20519C0800741CC0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3AD3826020519C0800741CC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3AD3826220519C0800741CC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3AD3826520519C0800741CC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3AD3826720519C0800741CC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AD3826C20519C0800741CC0 /* LinAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LinAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AD3827020519C0800741CC0 /* LinAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinAppTests.swift; sourceTree = "<group>"; };
+		3AD3827220519C0800741CC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AD3827720519C0800741CC0 /* LinAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LinAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3AD3827B20519C0800741CC0 /* LinAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinAppUITests.swift; sourceTree = "<group>"; };
+		3AD3827D20519C0800741CC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3AD382892051AD4600741CC0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		3AE271A12067B28C00EB136A /* MerklisteTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MerklisteTableViewCell.swift; sourceTree = "<group>"; };
+		3AE271A52067B38B00EB136A /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		3AE271A92067BDBF00EB136A /* Aktien.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aktien.swift; sourceTree = "<group>"; };
+		3BF024DA6181EF6F07E0F9FB /* Pods_LinAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LinAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		671E3E61E39DD4D04A4B9294 /* Pods-LinApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LinApp/Pods-LinApp.debug.xcconfig"; sourceTree = "<group>"; };
+		73D2A3C589A944862384A4AE /* Pods-LinAppUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinAppUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LinAppUITests/Pods-LinAppUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		745BB51B8101962BD4839BA2 /* Pods-LinAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinAppTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LinAppTests/Pods-LinAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		7B27FA58064008DE320A5DD3 /* Pods-LinAppUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinAppUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LinAppUITests/Pods-LinAppUITests.release.xcconfig"; sourceTree = "<group>"; };
+		A52BCC543003BD60D53DE8B1 /* Pods_LinApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LinApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFC3D701819D46FBCD026C7F /* Pods-LinApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-LinApp/Pods-LinApp.release.xcconfig"; sourceTree = "<group>"; };
+		B9CC0D294A484725F9488382 /* Pods-LinAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LinAppTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LinAppTests/Pods-LinAppTests.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3AD3825520519C0700741CC0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				53FCEEC4E2A34D7C06C1185B /* Pods_LinApp.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3AD3826920519C0800741CC0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				24150AA75357B74BC65443BF /* Pods_LinAppTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3AD3827420519C0800741CC0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				820FC285495F7CD2FD824217 /* Pods_LinAppUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3AD3824F20519C0700741CC0 = {
+			isa = PBXGroup;
+			children = (
+				3AE271A72067BD7600EB136A /* Model */,
+				3AD3825A20519C0800741CC0 /* LinApp */,
+				3AD3826F20519C0800741CC0 /* LinAppTests */,
+				3AD3827A20519C0800741CC0 /* LinAppUITests */,
+				3AD3825920519C0800741CC0 /* Products */,
+				F45D3FF9B716634389794960 /* Pods */,
+				BAFBE9BDF35575BA384C183C /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		3AD3825920519C0800741CC0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3AD3825820519C0800741CC0 /* LinApp.app */,
+				3AD3826C20519C0800741CC0 /* LinAppTests.xctest */,
+				3AD3827720519C0800741CC0 /* LinAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3AD3825A20519C0800741CC0 /* LinApp */ = {
+			isa = PBXGroup;
+			children = (
+				3AA36200207E79A3000143D6 /* LinApp.entitlements */,
+				3AD3825B20519C0800741CC0 /* AppDelegate.swift */,
+				3AE271A12067B28C00EB136A /* MerklisteTableViewCell.swift */,
+				3AE271A52067B38B00EB136A /* TableViewController.swift */,
+				3AD3825D20519C0800741CC0 /* ViewController.swift */,
+				3A9266BD207C0B3600F72508 /* ImagePick.swift */,
+				3AD3825F20519C0800741CC0 /* Main.storyboard */,
+				3AD3826220519C0800741CC0 /* Assets.xcassets */,
+				3AD3826420519C0800741CC0 /* LaunchScreen.storyboard */,
+				3AD3826720519C0800741CC0 /* Info.plist */,
+				3AD382892051AD4600741CC0 /* GoogleService-Info.plist */,
+			);
+			path = LinApp;
+			sourceTree = "<group>";
+		};
+		3AD3826F20519C0800741CC0 /* LinAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				3AD3827020519C0800741CC0 /* LinAppTests.swift */,
+				3AD3827220519C0800741CC0 /* Info.plist */,
+			);
+			path = LinAppTests;
+			sourceTree = "<group>";
+		};
+		3AD3827A20519C0800741CC0 /* LinAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3AD3827B20519C0800741CC0 /* LinAppUITests.swift */,
+				3AD3827D20519C0800741CC0 /* Info.plist */,
+			);
+			path = LinAppUITests;
+			sourceTree = "<group>";
+		};
+		3AE271A72067BD7600EB136A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3AE271A92067BDBF00EB136A /* Aktien.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BAFBE9BDF35575BA384C183C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A52BCC543003BD60D53DE8B1 /* Pods_LinApp.framework */,
+				3BF024DA6181EF6F07E0F9FB /* Pods_LinAppTests.framework */,
+				0D282C8A508242C88FCA05D0 /* Pods_LinAppUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F45D3FF9B716634389794960 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				671E3E61E39DD4D04A4B9294 /* Pods-LinApp.debug.xcconfig */,
+				AFC3D701819D46FBCD026C7F /* Pods-LinApp.release.xcconfig */,
+				745BB51B8101962BD4839BA2 /* Pods-LinAppTests.debug.xcconfig */,
+				B9CC0D294A484725F9488382 /* Pods-LinAppTests.release.xcconfig */,
+				73D2A3C589A944862384A4AE /* Pods-LinAppUITests.debug.xcconfig */,
+				7B27FA58064008DE320A5DD3 /* Pods-LinAppUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3AD3825720519C0700741CC0 /* LinApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3AD3828020519C0800741CC0 /* Build configuration list for PBXNativeTarget "LinApp" */;
+			buildPhases = (
+				0590FE21C6A6470C74ADEBCE /* [CP] Check Pods Manifest.lock */,
+				3AD3825420519C0700741CC0 /* Sources */,
+				3AD3825520519C0700741CC0 /* Frameworks */,
+				3AD3825620519C0700741CC0 /* Resources */,
+				407EF9320EBBFEA9028B5A31 /* [CP] Embed Pods Frameworks */,
+				65EDBC5F0CE4E8B38B637C3D /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LinApp;
+			productName = LinApp;
+			productReference = 3AD3825820519C0800741CC0 /* LinApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3AD3826B20519C0800741CC0 /* LinAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3AD3828320519C0800741CC0 /* Build configuration list for PBXNativeTarget "LinAppTests" */;
+			buildPhases = (
+				43CCC3F0C1188C6BBA93EA28 /* [CP] Check Pods Manifest.lock */,
+				3AD3826820519C0800741CC0 /* Sources */,
+				3AD3826920519C0800741CC0 /* Frameworks */,
+				3AD3826A20519C0800741CC0 /* Resources */,
+				5FA6B76138D9018C05077FE5 /* [CP] Embed Pods Frameworks */,
+				81402C18C0F9A3B670C0786C /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3AD3826E20519C0800741CC0 /* PBXTargetDependency */,
+			);
+			name = LinAppTests;
+			productName = LinAppTests;
+			productReference = 3AD3826C20519C0800741CC0 /* LinAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3AD3827620519C0800741CC0 /* LinAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3AD3828620519C0800741CC0 /* Build configuration list for PBXNativeTarget "LinAppUITests" */;
+			buildPhases = (
+				0E723F60CD3B6BDC445085EA /* [CP] Check Pods Manifest.lock */,
+				3AD3827320519C0800741CC0 /* Sources */,
+				3AD3827420519C0800741CC0 /* Frameworks */,
+				3AD3827520519C0800741CC0 /* Resources */,
+				5FD3492CDBF87E5693064C04 /* [CP] Embed Pods Frameworks */,
+				A5CB00D72F0F8952A552335D /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3AD3827920519C0800741CC0 /* PBXTargetDependency */,
+			);
+			name = LinAppUITests;
+			productName = LinAppUITests;
+			productReference = 3AD3827720519C0800741CC0 /* LinAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3AD3825020519C0700741CC0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = Anton;
+				TargetAttributes = {
+					3AD3825720519C0700741CC0 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 0;
+							};
+						};
+					};
+					3AD3826B20519C0800741CC0 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3AD3825720519C0700741CC0;
+					};
+					3AD3827620519C0800741CC0 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 3AD3825720519C0700741CC0;
+					};
+				};
+			};
+			buildConfigurationList = 3AD3825320519C0700741CC0 /* Build configuration list for PBXProject "LinApp" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3AD3824F20519C0700741CC0;
+			productRefGroup = 3AD3825920519C0800741CC0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3AD3825720519C0700741CC0 /* LinApp */,
+				3AD3826B20519C0800741CC0 /* LinAppTests */,
+				3AD3827620519C0800741CC0 /* LinAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3AD3825620519C0700741CC0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AD3826620519C0800741CC0 /* LaunchScreen.storyboard in Resources */,
+				3AD3828A2051AD4600741CC0 /* GoogleService-Info.plist in Resources */,
+				3AD3826320519C0800741CC0 /* Assets.xcassets in Resources */,
+				3AD3826120519C0800741CC0 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3AD3826A20519C0800741CC0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3AD3827520519C0800741CC0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0590FE21C6A6470C74ADEBCE /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LinApp-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		0E723F60CD3B6BDC445085EA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LinAppUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		407EF9320EBBFEA9028B5A31 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-LinApp/Pods-LinApp-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKCoreKit/FBSDKCoreKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKLoginKit/FBSDKLoginKit.framework",
+				"${BUILT_PRODUCTS_DIR}/FBSDKShareKit/FBSDKShareKit.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMOAuth2/GTMOAuth2.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Bolts.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKCoreKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKLoginKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FBSDKShareKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMOAuth2.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LinApp/Pods-LinApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		43CCC3F0C1188C6BBA93EA28 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-LinAppTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5FA6B76138D9018C05077FE5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LinAppTests/Pods-LinAppTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5FD3492CDBF87E5693064C04 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LinAppUITests/Pods-LinAppUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		65EDBC5F0CE4E8B38B637C3D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-LinApp/Pods-LinApp-resources.sh",
+				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LinApp/Pods-LinApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		81402C18C0F9A3B670C0786C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LinAppTests/Pods-LinAppTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A5CB00D72F0F8952A552335D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LinAppUITests/Pods-LinAppUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3AD3825420519C0700741CC0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AD3825E20519C0800741CC0 /* ViewController.swift in Sources */,
+				3AD3825C20519C0800741CC0 /* AppDelegate.swift in Sources */,
+				3AE271AA2067BDBF00EB136A /* Aktien.swift in Sources */,
+				3AE271A22067B28C00EB136A /* MerklisteTableViewCell.swift in Sources */,
+				3A9266BE207C0B3600F72508 /* ImagePick.swift in Sources */,
+				3AE271A62067B38B00EB136A /* TableViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3AD3826820519C0800741CC0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AD3827120519C0800741CC0 /* LinAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3AD3827320519C0800741CC0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3AD3827C20519C0800741CC0 /* LinAppUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3AD3826E20519C0800741CC0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3AD3825720519C0700741CC0 /* LinApp */;
+			targetProxy = 3AD3826D20519C0800741CC0 /* PBXContainerItemProxy */;
+		};
+		3AD3827920519C0800741CC0 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3AD3825720519C0700741CC0 /* LinApp */;
+			targetProxy = 3AD3827820519C0800741CC0 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3AD3825F20519C0800741CC0 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3AD3826020519C0800741CC0 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3AD3826420519C0800741CC0 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3AD3826520519C0800741CC0 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3AD3827E20519C0800741CC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3AD3827F20519C0800741CC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3AD3828120519C0800741CC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 671E3E61E39DD4D04A4B9294 /* Pods-LinApp.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = E5PGG4U5FH;
+				INFOPLIST_FILE = LinApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AA.LinApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3AD3828220519C0800741CC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AFC3D701819D46FBCD026C7F /* Pods-LinApp.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = E5PGG4U5FH;
+				INFOPLIST_FILE = LinApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AA.LinApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3AD3828420519C0800741CC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 745BB51B8101962BD4839BA2 /* Pods-LinAppTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = E5PGG4U5FH;
+				INFOPLIST_FILE = LinAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AA.LinAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LinApp.app/LinApp";
+			};
+			name = Debug;
+		};
+		3AD3828520519C0800741CC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B9CC0D294A484725F9488382 /* Pods-LinAppTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = E5PGG4U5FH;
+				INFOPLIST_FILE = LinAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AA.LinAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LinApp.app/LinApp";
+			};
+			name = Release;
+		};
+		3AD3828720519C0800741CC0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 73D2A3C589A944862384A4AE /* Pods-LinAppUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = E5PGG4U5FH;
+				INFOPLIST_FILE = LinAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AA.LinAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LinApp;
+			};
+			name = Debug;
+		};
+		3AD3828820519C0800741CC0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7B27FA58064008DE320A5DD3 /* Pods-LinAppUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = E5PGG4U5FH;
+				INFOPLIST_FILE = LinAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = AA.LinAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = LinApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3AD3825320519C0700741CC0 /* Build configuration list for PBXProject "LinApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AD3827E20519C0800741CC0 /* Debug */,
+				3AD3827F20519C0800741CC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3AD3828020519C0800741CC0 /* Build configuration list for PBXNativeTarget "LinApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AD3828120519C0800741CC0 /* Debug */,
+				3AD3828220519C0800741CC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3AD3828320519C0800741CC0 /* Build configuration list for PBXNativeTarget "LinAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AD3828420519C0800741CC0 /* Debug */,
+				3AD3828520519C0800741CC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3AD3828620519C0800741CC0 /* Build configuration list for PBXNativeTarget "LinAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AD3828720519C0800741CC0 /* Debug */,
+				3AD3828820519C0800741CC0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3AD3825020519C0700741CC0 /* Project object */;
+}
