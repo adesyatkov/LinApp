@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.94175"
+            timestampString = "545247269.8518831"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
             landmarkName = "ClickMeToSignIn(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.943716"
+            timestampString = "545247269.8534451"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
             landmarkName = "ClickMeToSignIn(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -42,7 +42,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.944821"
+            timestampString = "545247269.854507"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "48"
@@ -58,7 +58,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.945817"
+            timestampString = "545247269.855528"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "49"
@@ -74,7 +74,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9468009"
+            timestampString = "545247269.8565921"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "55"
@@ -90,7 +90,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.947507"
+            timestampString = "545247269.857608"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "58"
@@ -106,7 +106,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.948001"
+            timestampString = "545247269.858629"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "57"
@@ -122,7 +122,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.948486"
+            timestampString = "545247269.8596359"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "72"
@@ -138,11 +138,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.94897"
+            timestampString = "545247269.860732"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "74"
-            endingLineNumber = "74"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
             landmarkName = "ClickMeToSignIn(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -154,11 +154,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.949456"
+            timestampString = "545247269.8616771"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
             landmarkName = "ClickMeToSignIn(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -170,7 +170,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.949985"
+            timestampString = "545247269.8626209"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "56"
@@ -186,7 +186,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.950502"
+            timestampString = "545247269.86356"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "54"
@@ -234,7 +234,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9510241"
+            timestampString = "545247269.864552"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "59"
@@ -250,7 +250,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.951514"
+            timestampString = "545247269.865438"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "60"
@@ -266,7 +266,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.951997"
+            timestampString = "545247269.8663189"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "62"
@@ -282,7 +282,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.952455"
+            timestampString = "545247269.867192"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "64"
@@ -298,7 +298,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9528871"
+            timestampString = "545247269.868124"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "66"
@@ -314,7 +314,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.953318"
+            timestampString = "545247269.869018"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "68"
@@ -330,7 +330,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.953746"
+            timestampString = "545247269.8699"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "70"
@@ -650,71 +650,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9543101"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "210"
-            endingLineNumber = "210"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.954747"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "212"
-            endingLineNumber = "212"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.955255"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "231"
-            endingLineNumber = "231"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.955687"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "211"
-            endingLineNumber = "211"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9561189"
+            timestampString = "545247269.8710459"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "233"
@@ -730,43 +666,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.956549"
+            timestampString = "545247269.87202"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "266"
-            endingLineNumber = "266"
-            landmarkName = "ViewController"
-            landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.95698"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "269"
-            endingLineNumber = "269"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.95741"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "220"
-            endingLineNumber = "220"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -778,11 +682,107 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.957819"
+            timestampString = "545247269.872915"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "161"
-            endingLineNumber = "161"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.873794"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "234"
+            endingLineNumber = "234"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.87468"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.87556"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.876491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.8773741"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.878263"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -794,7 +794,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.958235"
+            timestampString = "545247269.879153"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
@@ -810,7 +810,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.958658"
+            timestampString = "545247269.880096"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "34"
@@ -826,11 +826,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.959447"
+            timestampString = "545247269.880983"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "221"
-            endingLineNumber = "221"
+            startingLineNumber = "244"
+            endingLineNumber = "244"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -842,11 +842,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.95987"
+            timestampString = "545247269.881874"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "225"
-            endingLineNumber = "225"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -858,7 +858,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9602849"
+            timestampString = "545247269.882773"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "36"
@@ -874,7 +874,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9607"
+            timestampString = "545247269.8837399"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "38"
@@ -890,7 +890,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.96117"
+            timestampString = "545247269.884631"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "37"
@@ -938,7 +938,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.961587"
+            timestampString = "545247269.885516"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "39"
@@ -954,11 +954,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.962001"
+            timestampString = "545247269.886393"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "226"
-            endingLineNumber = "226"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -970,7 +970,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.962418"
+            timestampString = "545247269.88727"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "67"
@@ -986,11 +986,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.962911"
+            timestampString = "545247269.888224"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "213"
-            endingLineNumber = "213"
+            startingLineNumber = "236"
+            endingLineNumber = "236"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1002,11 +1002,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.963326"
+            timestampString = "545247269.889112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "308"
-            endingLineNumber = "308"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1050,11 +1050,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.963745"
+            timestampString = "545247269.890008"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "310"
-            endingLineNumber = "310"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1066,11 +1066,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.964159"
+            timestampString = "545247269.890898"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "313"
-            endingLineNumber = "313"
+            startingLineNumber = "336"
+            endingLineNumber = "336"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1242,11 +1242,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.964645"
+            timestampString = "545247269.892046"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "167"
-            endingLineNumber = "167"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1258,11 +1258,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.965073"
+            timestampString = "545247269.8929501"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "166"
-            endingLineNumber = "166"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1274,11 +1274,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9654911"
+            timestampString = "545247269.8938251"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "162"
-            endingLineNumber = "162"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1290,11 +1290,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.965909"
+            timestampString = "545247269.894701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "160"
-            endingLineNumber = "160"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
             landmarkName = "ViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -1306,11 +1306,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.966326"
+            timestampString = "545247269.89564"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "201"
-            endingLineNumber = "201"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1322,11 +1322,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9668061"
+            timestampString = "545247269.8965321"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "165"
-            endingLineNumber = "165"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1354,11 +1354,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.967239"
+            timestampString = "545247269.897449"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "186"
-            endingLineNumber = "186"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1370,11 +1370,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9676549"
+            timestampString = "545247269.898347"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "197"
-            endingLineNumber = "197"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1386,11 +1386,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.968064"
+            timestampString = "545247269.899262"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "179"
-            endingLineNumber = "179"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1402,11 +1402,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.968475"
+            timestampString = "545247269.900179"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "229"
-            endingLineNumber = "229"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1418,11 +1418,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.968919"
+            timestampString = "545247269.9010741"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "301"
-            endingLineNumber = "301"
+            startingLineNumber = "324"
+            endingLineNumber = "324"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1434,11 +1434,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.969331"
+            timestampString = "545247269.90196"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "302"
-            endingLineNumber = "302"
+            startingLineNumber = "325"
+            endingLineNumber = "325"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1450,11 +1450,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.969744"
+            timestampString = "545247269.902846"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "303"
-            endingLineNumber = "303"
+            startingLineNumber = "326"
+            endingLineNumber = "326"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1466,11 +1466,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.970156"
+            timestampString = "545247269.903796"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "310"
-            endingLineNumber = "310"
+            startingLineNumber = "333"
+            endingLineNumber = "333"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1482,11 +1482,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.970706"
+            timestampString = "545247269.904685"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "308"
-            endingLineNumber = "308"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1498,11 +1498,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.971117"
+            timestampString = "545247269.905576"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "257"
-            endingLineNumber = "257"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1514,11 +1514,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.971535"
+            timestampString = "545247269.90646"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "281"
-            endingLineNumber = "281"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1530,11 +1530,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.971972"
+            timestampString = "545247269.9073859"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "293"
-            endingLineNumber = "293"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1546,11 +1546,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.972385"
+            timestampString = "545247269.908269"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "291"
-            endingLineNumber = "291"
+            startingLineNumber = "314"
+            endingLineNumber = "314"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -1609,11 +1609,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.972796"
+            timestampString = "545247269.90916"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "192"
-            endingLineNumber = "192"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1625,11 +1625,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.973207"
+            timestampString = "545247269.910048"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "175"
-            endingLineNumber = "175"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1641,11 +1641,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.973616"
+            timestampString = "545247269.910936"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "178"
-            endingLineNumber = "178"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1801,11 +1801,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.974071"
+            timestampString = "545247269.911966"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1817,11 +1817,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.974557"
+            timestampString = "545247269.912855"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "180"
-            endingLineNumber = "180"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
             landmarkName = "getFBData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1833,7 +1833,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.974999"
+            timestampString = "545247269.913731"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "47"
@@ -1849,7 +1849,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.975427"
+            timestampString = "545247269.914632"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
@@ -1865,7 +1865,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.975875"
+            timestampString = "545247269.915566"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "29"
@@ -1943,7 +1943,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9762959"
+            timestampString = "545247269.916455"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "28"
@@ -2021,7 +2021,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.976716"
+            timestampString = "545247269.91734"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "27"
@@ -2099,7 +2099,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.977131"
+            timestampString = "545247269.91824"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "20"
@@ -2192,7 +2192,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.977576"
+            timestampString = "545247269.919247"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "21"
@@ -2270,11 +2270,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.978011"
+            timestampString = "545247269.920146"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "156"
-            endingLineNumber = "156"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
             landmarkName = "Register(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2286,11 +2286,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9785039"
+            timestampString = "545247269.921044"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "158"
-            endingLineNumber = "158"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
             landmarkName = "Register(_:)"
             landmarkType = "7">
             <Locations>
@@ -2334,11 +2334,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.978923"
+            timestampString = "545247269.921924"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "159"
-            endingLineNumber = "159"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
             landmarkName = "Register(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2350,11 +2350,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.979342"
+            timestampString = "545247269.922875"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "203"
-            endingLineNumber = "203"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2366,11 +2366,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.979755"
+            timestampString = "545247269.923767"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "202"
-            endingLineNumber = "202"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2382,11 +2382,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.980173"
+            timestampString = "545247269.924651"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "198"
-            endingLineNumber = "198"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2398,11 +2398,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.980642"
+            timestampString = "545247269.925531"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "196"
-            endingLineNumber = "196"
+            startingLineNumber = "219"
+            endingLineNumber = "219"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2414,11 +2414,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.981052"
+            timestampString = "545247269.926415"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "200"
-            endingLineNumber = "200"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
             <Locations>
@@ -2462,11 +2462,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.981461"
+            timestampString = "545247269.927333"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "204"
-            endingLineNumber = "204"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2478,11 +2478,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.981902"
+            timestampString = "545247269.928214"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "206"
-            endingLineNumber = "206"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2494,11 +2494,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.98243"
+            timestampString = "545247269.929098"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "207"
-            endingLineNumber = "207"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
             <Locations>
@@ -2542,119 +2542,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9828399"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "209"
-            endingLineNumber = "209"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.983248"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "214"
-            endingLineNumber = "214"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9836611"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "218"
-            endingLineNumber = "218"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9840699"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "219"
-            endingLineNumber = "219"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.984483"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "222"
-            endingLineNumber = "222"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.984893"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "223"
-            endingLineNumber = "223"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.985303"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "228"
-            endingLineNumber = "228"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.985723"
+            timestampString = "545247269.929981"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "232"
@@ -2670,7 +2558,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9861929"
+            timestampString = "545247269.930943"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "237"
@@ -2686,11 +2574,123 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.986604"
+            timestampString = "545247269.93183"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "240"
-            endingLineNumber = "240"
+            startingLineNumber = "241"
+            endingLineNumber = "241"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.932704"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.933596"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.9345599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "246"
+            endingLineNumber = "246"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.935468"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.936352"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "255"
+            endingLineNumber = "255"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.937236"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.938126"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "263"
+            endingLineNumber = "263"
             landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
             <Locations>
@@ -2734,124 +2734,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.987013"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "241"
-            endingLineNumber = "241"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9874229"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "243"
-            endingLineNumber = "243"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.987872"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "244"
-            endingLineNumber = "244"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.988289"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "248"
-            endingLineNumber = "248"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.988698"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "258"
-            endingLineNumber = "258"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.989113"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "259"
-            endingLineNumber = "259"
-            landmarkName = "loginButton(_:didCompleteWith:error:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.989522"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "263"
-            endingLineNumber = "263"
-            landmarkName = "loginButtonDidLogOut(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.989934"
+            timestampString = "545247269.939049"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "264"
             endingLineNumber = "264"
-            landmarkName = "loginButtonDidLogOut(_:)"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2862,12 +2750,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.990411"
+            timestampString = "545247269.939934"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "265"
-            endingLineNumber = "265"
-            landmarkName = "loginButtonDidLogOut(_:)"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2878,12 +2766,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.990822"
+            timestampString = "545247269.940825"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.94171"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "271"
             endingLineNumber = "271"
-            landmarkName = "viewDidLoad()"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2894,12 +2798,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.991236"
+            timestampString = "545247269.9426709"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "280"
-            endingLineNumber = "280"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2910,12 +2814,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.991649"
+            timestampString = "545247269.943556"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "285"
-            endingLineNumber = "285"
-            landmarkName = "viewDidLoad()"
+            startingLineNumber = "282"
+            endingLineNumber = "282"
+            landmarkName = "loginButton(_:didCompleteWith:error:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -2926,11 +2830,107 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9920551"
+            timestampString = "545247269.944447"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "286"
             endingLineNumber = "286"
+            landmarkName = "loginButtonDidLogOut(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.9453419"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
+            landmarkName = "loginButtonDidLogOut(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.946268"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "loginButtonDidLogOut(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.947168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.9480571"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.948938"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "308"
+            endingLineNumber = "308"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.949823"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -2974,11 +2974,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.992461"
+            timestampString = "545247269.950776"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "288"
-            endingLineNumber = "288"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2990,11 +2990,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.992871"
+            timestampString = "545247269.951663"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "290"
-            endingLineNumber = "290"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
             <Locations>
@@ -3053,135 +3053,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.993284"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "298"
-            endingLineNumber = "298"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9936939"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "299"
-            endingLineNumber = "299"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.994212"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "311"
-            endingLineNumber = "311"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.99465"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "312"
-            endingLineNumber = "312"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.995064"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "316"
-            endingLineNumber = "316"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.995476"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "318"
-            endingLineNumber = "318"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9958839"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "319"
-            endingLineNumber = "319"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.996296"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "330"
-            endingLineNumber = "330"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9967051"
+            timestampString = "545247269.9525419"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "321"
@@ -3197,11 +3069,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.997111"
+            timestampString = "545247269.953428"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "329"
-            endingLineNumber = "329"
+            startingLineNumber = "322"
+            endingLineNumber = "322"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3213,11 +3085,139 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.997525"
+            timestampString = "545247269.954385"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "332"
-            endingLineNumber = "332"
+            startingLineNumber = "334"
+            endingLineNumber = "334"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.955269"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "335"
+            endingLineNumber = "335"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.956202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.9571511"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.958106"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "342"
+            endingLineNumber = "342"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.9592969"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "353"
+            endingLineNumber = "353"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.960199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "344"
+            endingLineNumber = "344"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.9610831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "352"
+            endingLineNumber = "352"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.962007"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "355"
+            endingLineNumber = "355"
             landmarkName = "ViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -3229,11 +3229,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.99799"
+            timestampString = "545247269.962903"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "331"
-            endingLineNumber = "331"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3245,11 +3245,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9984"
+            timestampString = "545247269.963796"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "336"
-            endingLineNumber = "336"
+            startingLineNumber = "359"
+            endingLineNumber = "359"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3261,11 +3261,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.998841"
+            timestampString = "545247269.9646831"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "338"
-            endingLineNumber = "338"
+            startingLineNumber = "361"
+            endingLineNumber = "361"
             landmarkName = "loadPicture()"
             landmarkType = "7">
             <Locations>
@@ -3309,11 +3309,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.9992599"
+            timestampString = "545247269.96557"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "339"
-            endingLineNumber = "339"
+            startingLineNumber = "362"
+            endingLineNumber = "362"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3325,11 +3325,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170580.99967"
+            timestampString = "545247269.9665641"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "340"
-            endingLineNumber = "340"
+            startingLineNumber = "363"
+            endingLineNumber = "363"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3341,11 +3341,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0000859"
+            timestampString = "545247269.96746"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "341"
-            endingLineNumber = "341"
+            startingLineNumber = "364"
+            endingLineNumber = "364"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3357,11 +3357,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.000527"
+            timestampString = "545247269.96834"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "343"
-            endingLineNumber = "343"
+            startingLineNumber = "366"
+            endingLineNumber = "366"
             landmarkName = "loadPicture()"
             landmarkType = "7">
             <Locations>
@@ -3405,11 +3405,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.000942"
+            timestampString = "545247269.969226"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "344"
-            endingLineNumber = "344"
+            startingLineNumber = "367"
+            endingLineNumber = "367"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3421,11 +3421,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0013551"
+            timestampString = "545247269.970191"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "347"
-            endingLineNumber = "347"
+            startingLineNumber = "370"
+            endingLineNumber = "370"
             landmarkName = "loadPicture()"
             landmarkType = "7">
             <Locations>
@@ -3469,11 +3469,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.001837"
+            timestampString = "545247269.971082"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "349"
-            endingLineNumber = "349"
+            startingLineNumber = "372"
+            endingLineNumber = "372"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3485,11 +3485,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.002284"
+            timestampString = "545247269.971971"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "351"
-            endingLineNumber = "351"
+            startingLineNumber = "374"
+            endingLineNumber = "374"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3501,11 +3501,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.002725"
+            timestampString = "545247269.972862"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "352"
-            endingLineNumber = "352"
+            startingLineNumber = "375"
+            endingLineNumber = "375"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3517,11 +3517,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.003137"
+            timestampString = "545247269.973798"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "353"
-            endingLineNumber = "353"
+            startingLineNumber = "376"
+            endingLineNumber = "376"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3533,11 +3533,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.003554"
+            timestampString = "545247269.9747109"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "359"
-            endingLineNumber = "359"
+            startingLineNumber = "382"
+            endingLineNumber = "382"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -3581,11 +3581,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.003992"
+            timestampString = "545247269.9756041"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "361"
-            endingLineNumber = "361"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3597,11 +3597,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.004406"
+            timestampString = "545247269.976504"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "365"
-            endingLineNumber = "365"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -3645,11 +3645,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.004818"
+            timestampString = "545247269.977399"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "368"
-            endingLineNumber = "368"
+            startingLineNumber = "391"
+            endingLineNumber = "391"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3661,11 +3661,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.005233"
+            timestampString = "545247269.9783829"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "370"
-            endingLineNumber = "370"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -3709,11 +3709,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0057859"
+            timestampString = "545247269.9792759"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "372"
-            endingLineNumber = "372"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3725,11 +3725,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0062031"
+            timestampString = "545247269.980167"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "377"
-            endingLineNumber = "377"
+            startingLineNumber = "400"
+            endingLineNumber = "400"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3741,11 +3741,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.006615"
+            timestampString = "545247269.981061"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "376"
-            endingLineNumber = "376"
+            startingLineNumber = "399"
+            endingLineNumber = "399"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -3789,11 +3789,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.007032"
+            timestampString = "545247269.981999"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "389"
-            endingLineNumber = "389"
+            startingLineNumber = "412"
+            endingLineNumber = "412"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3805,11 +3805,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.007454"
+            timestampString = "545247269.982897"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "390"
-            endingLineNumber = "390"
+            startingLineNumber = "413"
+            endingLineNumber = "413"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3837,11 +3837,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0081151"
+            timestampString = "545247269.983819"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "354"
-            endingLineNumber = "354"
+            startingLineNumber = "377"
+            endingLineNumber = "377"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3853,11 +3853,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.00854"
+            timestampString = "545247269.9847161"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "353"
-            endingLineNumber = "353"
+            startingLineNumber = "376"
+            endingLineNumber = "376"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3869,11 +3869,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.00895"
+            timestampString = "545247269.985671"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "352"
-            endingLineNumber = "352"
+            startingLineNumber = "375"
+            endingLineNumber = "375"
             landmarkName = "loadPicture()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3885,11 +3885,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.009361"
+            timestampString = "545247269.986559"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "359"
-            endingLineNumber = "359"
+            startingLineNumber = "382"
+            endingLineNumber = "382"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -3933,11 +3933,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0098341"
+            timestampString = "545247269.987442"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "361"
-            endingLineNumber = "361"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3949,11 +3949,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.010249"
+            timestampString = "545247269.988323"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "365"
-            endingLineNumber = "365"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -3997,11 +3997,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.010662"
+            timestampString = "545247269.98927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "368"
-            endingLineNumber = "368"
+            startingLineNumber = "391"
+            endingLineNumber = "391"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -4013,11 +4013,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0111181"
+            timestampString = "545247269.9901659"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "370"
-            endingLineNumber = "370"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -4061,11 +4061,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.011523"
+            timestampString = "545247269.991058"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "372"
-            endingLineNumber = "372"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -4077,11 +4077,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.011964"
+            timestampString = "545247269.991942"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "376"
-            endingLineNumber = "376"
+            startingLineNumber = "399"
+            endingLineNumber = "399"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
             <Locations>
@@ -4125,11 +4125,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.012374"
+            timestampString = "545247269.99283"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "389"
-            endingLineNumber = "389"
+            startingLineNumber = "412"
+            endingLineNumber = "412"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -4141,11 +4141,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.012785"
+            timestampString = "545247269.993777"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "391"
-            endingLineNumber = "391"
+            startingLineNumber = "414"
+            endingLineNumber = "414"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -4157,11 +4157,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.013232"
+            timestampString = "545247269.994674"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "390"
-            endingLineNumber = "390"
+            startingLineNumber = "413"
+            endingLineNumber = "413"
             landmarkName = "checkIfUserIsLoggedIn()"
             landmarkType = "7">
          </BreakpointContent>
@@ -4380,11 +4380,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.013993"
+            timestampString = "545247269.995725"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "289"
-            endingLineNumber = "289"
+            startingLineNumber = "312"
+            endingLineNumber = "312"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -4396,11 +4396,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0149519"
+            timestampString = "545247269.996612"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "292"
-            endingLineNumber = "292"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -4412,7 +4412,631 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.015455"
+            timestampString = "545247269.997563"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.998454"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247269.9993351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.000217"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.001165"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.002041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.002919"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.003795"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.0046721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.005604"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.006483"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.702796"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.711655"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "2572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.007359"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.734373"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.743139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "2572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.008231"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.009192"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.010075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.010957"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.881925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1820">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.8913521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.0118411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.913727"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "1820">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.922965"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.012785"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.013679"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.014559"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.961925"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "2172">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247270.971007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.015435"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "Register(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.01631"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.017224"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247271.032555"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247271.042294"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.018096"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.018973"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "ClickMeToSignIn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247271.0828511"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
+                  moduleName = "LinApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
+                  timestampString = "545247271.092412"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinApp/ViewController.swift"
+            timestampString = "545247270.019839"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "86"
@@ -4428,317 +5052,45 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.015859"
+            timestampString = "545247270.0207829"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.016248"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "94"
-            endingLineNumber = "94"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0166301"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "96"
-            endingLineNumber = "96"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.017015"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "147"
-            endingLineNumber = "147"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.017536"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "95"
-            endingLineNumber = "95"
-            landmarkName = "Register(_:)"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "ClickMeToSignIn(_:)"
             landmarkType = "7">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "LinApp.ViewController.Register(Any) -&gt; ()"
+                  symbolName = "closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
                   moduleName = "LinApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
-                  timestampString = "545170369.80346"
+                  timestampString = "545247271.1319571"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "95"
-                  endingLineNumber = "95"
-                  offsetFromSymbolStart = "1660">
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1044">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (__ObjC.DataSnapshot) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.ClickMeToSignIn(Any) -&gt; ()"
                   moduleName = "LinApp"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
-                  timestampString = "545170369.807972"
+                  timestampString = "545247271.1404999"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "96"
-                  endingLineNumber = "96"
-                  offsetFromSymbolStart = "52">
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "588">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.017992"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.018379"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "98"
-            endingLineNumber = "98"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.0187531"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
-                  moduleName = "LinApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
-                  timestampString = "545170369.839708"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "100"
-                  endingLineNumber = "100"
-                  offsetFromSymbolStart = "356">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
-                  moduleName = "LinApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
-                  timestampString = "545170369.844034"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "101"
-                  endingLineNumber = "101"
-                  offsetFromSymbolStart = "44">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.019129"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.019502"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "112"
-            endingLineNumber = "112"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.019873"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.020242"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "114"
-            endingLineNumber = "114"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
-                  moduleName = "LinApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
-                  timestampString = "545170369.885613"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "114"
-                  endingLineNumber = "114"
-                  offsetFromSymbolStart = "1884">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;, __ObjC.DatabaseReference) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__ObjC.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LinApp.ViewController.Register(Any) -&gt; ()"
-                  moduleName = "LinApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/anton/Library/Autosave%20Information/LinApp/LinApp/ViewController.swift"
-                  timestampString = "545170369.890015"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "115"
-                  endingLineNumber = "115"
-                  offsetFromSymbolStart = "20">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.020613"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "111"
-            endingLineNumber = "111"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "LinApp/ViewController.swift"
-            timestampString = "545170581.020978"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
-            landmarkName = "Register(_:)"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

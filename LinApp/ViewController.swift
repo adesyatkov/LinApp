@@ -72,6 +72,29 @@ class ViewController: UIViewController, FBSDKLoginButtonDelegate, GIDSignInUIDel
 /////!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!Download USER Profile Picture
                             
                             
+                            let uid = Auth.auth().currentUser?.uid
+                            
+                            Database.database().reference().child("User").child(uid!).child("PhotoURL").observeSingleEvent(of: .value, with: { (snapshot) in
+                                
+                                let profileImageUrl = snapshot.value as? String
+                                let url = URL(string: profileImageUrl!)
+                                
+                                
+                                URLSession.shared.dataTask(with: url!, completionHandler: { (data, response, error) in
+                                    if error != nil{
+                                        print(error)
+                                        return
+                                    }
+                                    DispatchQueue.main.async { // Make sure you're on the main thread here
+                                        self.ProfileImage.image = UIImage(data: data!)
+                                    }
+                                    
+                                }).resume()
+                                //if let dictionary = snapshot.value as?[String: AnyObject]{
+                                //  self.navigationItem.title = dictionary["name"] as? String
+                                //}
+                            }, withCancel: nil)
+                            
 //self.performSegue(withIdentifier: "MainScreen", sender: nil)
                 
                 
